@@ -1,5 +1,4 @@
 #include "iostream"
-
 #include "func0.h"
 #include "func1.h"
 #include "func2.h"
@@ -10,12 +9,12 @@
 #include "func7.h"
 #include "func8.h"
 #include "func9.h"
-
+using namespace std;
 
 int main() {
     // func0 ֆունկցիան հարցնում է օգտվողի ծնված տարեթիվը և ամիսը, տպում է տարիքը
 
-    // age(0, 0);
+     age(0, 0);
 
     return 0;
 }
