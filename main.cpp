@@ -34,11 +34,13 @@ int main() {
 
     // func4 Ֆունկցիան վերադարձնում է ցիկլի մեջ եղած թվերի գումարը do while loop - ի միջոցով
 
-    int f = do_while_loop(109, 300);
-    cout << f << endl;
+//    int f = do_while_loop(109, 300);
+//    cout << f << endl;
 
 
-    // func5
+    // func5 ֆունկցիան հաշվում է ուղղանկյան մակերեսը և պարագիծը
+
+    Par(4, 8);
 
     // func6
 
