@@ -11,6 +11,6 @@ void Par(int A, int B){
 
     cout << "P = " << P << endl;
     cout << "S = " << S << endl;
-    
+
 }
 
