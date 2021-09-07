@@ -49,9 +49,11 @@ int main() {
 
     // func7 ֆունկցիան հաշվում է թվի ֆակտորիալը (մինչև 12-ը, տարբերակ չգտա ավելի մեծ թվեր պահելու), (Unsigned)
 
-    factorial(12);
+//    factorial(12);
 
-    // func8
+    // func8 տպում է ամիսը (switch-case )
+
+    switch_case(5);
 
     // func9
 
