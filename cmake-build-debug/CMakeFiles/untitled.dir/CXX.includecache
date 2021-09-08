@@ -6,53 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/tatev/Desktop/CppProjects/func0.h
-
-/home/tatev/Desktop/CppProjects/func1.h
-
-/home/tatev/Desktop/CppProjects/func2.h
-
-/home/tatev/Desktop/CppProjects/func3.h
-
-/home/tatev/Desktop/CppProjects/func4.h
-
-/home/tatev/Desktop/CppProjects/func5.h
-
-/home/tatev/Desktop/CppProjects/func6.h
-
-/home/tatev/Desktop/CppProjects/func7.h
-
-/home/tatev/Desktop/CppProjects/func8.cpp
+/home/tatev/Desktop/CppProjects/func9.cpp
 iostream
 /home/tatev/Desktop/CppProjects/iostream
-func8.h
-/home/tatev/Desktop/CppProjects/func8.h
-
-/home/tatev/Desktop/CppProjects/func8.h
-
+func9.h
 /home/tatev/Desktop/CppProjects/func9.h
 
-/home/tatev/Desktop/CppProjects/main.cpp
-iostream
-/home/tatev/Desktop/CppProjects/iostream
-func0.h
-/home/tatev/Desktop/CppProjects/func0.h
-func1.h
-/home/tatev/Desktop/CppProjects/func1.h
-func2.h
-/home/tatev/Desktop/CppProjects/func2.h
-func3.h
-/home/tatev/Desktop/CppProjects/func3.h
-func4.h
-/home/tatev/Desktop/CppProjects/func4.h
-func5.h
-/home/tatev/Desktop/CppProjects/func5.h
-func6.h
-/home/tatev/Desktop/CppProjects/func6.h
-func7.h
-/home/tatev/Desktop/CppProjects/func7.h
-func8.h
-/home/tatev/Desktop/CppProjects/func8.h
-func9.h
 /home/tatev/Desktop/CppProjects/func9.h
 
