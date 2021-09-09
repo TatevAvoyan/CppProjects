@@ -1,3 +1,3 @@
 #pragma once
 
-void factorial(int number);
+void factorial(double number);
